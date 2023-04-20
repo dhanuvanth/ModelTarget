@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="27.0" toolVersion="10.14.4">
+<ModelTarget name="Engine" targetId="4ff5c380cb49486db10f450dcba101bb" version="14.0" toolVersion="10.14.4" bbox="-0.390560 0.008375 -0.610824 0.573732 0.426289 1.055141" previewImage="4ff5c380cb49486db10f450dcba101bb_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="Engines_assembly" assemblyId="b893da2b12dc47868cf105f8a532660e">
+<Part name="Engine" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="-0.222276 0.135784 1.39495" rotation="AD: 0.981415 -0.282172 0.98268 202.493" image="Engine_GuideView_0000.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

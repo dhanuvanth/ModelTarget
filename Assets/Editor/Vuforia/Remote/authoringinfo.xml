@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="27.0" toolVersion="10.14.4">
+<ModelTarget name="Remote" targetId="8cb547c16180496b875db9b2f16e9ff0" version="14.0" toolVersion="10.14.4" bbox="-0.026857 -0.000670 -0.079361 0.024251 0.014760 0.054039" previewImage="8cb547c16180496b875db9b2f16e9ff0_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="Remotes_assembly" assemblyId="584762e3a1fa4573847e75dd87b52f96">
+<Part name="Remote" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="0.00127498 -0.0127059 0.302682" rotation="AD: 0.00155011 1.41845 -1.41002 180.089" image="Remote_GuideView_0000.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

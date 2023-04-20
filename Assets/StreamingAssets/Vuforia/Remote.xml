@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="Remote" motionHint="adaptive" trackingMode="scan" optimizeTrackingFor="default"/>
+
+</Tracking>
+
+<Assembly name="Remotes_assembly" assemblyId="584762e3a1fa4573847e75dd87b52f96">
+<Part name="Remote" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="0.00127498 -0.0127059 0.302682" rotation="AD: 0.00155011 1.41845 -1.41002 180.089" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

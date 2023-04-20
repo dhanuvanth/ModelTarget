@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="Engine" motionHint="adaptive" trackingMode="scan" optimizeTrackingFor="default"/>
+
+</Tracking>
+
+<Assembly name="Engines_assembly" assemblyId="b893da2b12dc47868cf105f8a532660e">
+<Part name="Engine" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="-0.222276 0.135784 1.39495" rotation="AD: 0.981415 -0.282172 0.98268 202.493" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>
